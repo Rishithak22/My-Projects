@@ -1,4 +1,4 @@
-## Organic Plaza
+## Organic Plazza
 
 # Organic Products Website
 
@@ -16,9 +16,7 @@ This project is a website dedicated to selling organic products. It features a u
   - Bootstrap
 
 ## Usage
-1. Open your browser and go to https://rishithak22.github.io/CODSOFT/TASK-1/
+1. Open your browser and go to [https://rishithak22.github.io/My-Projects/Organic Plazza
+/](https://rishithak22.github.io/My-Projects/Organic%20Plazza/index.html)
 2. Register or log in to your account.
 3. Browse through the product catalog.
-4. Add desired products to your shopping cart.
-5. Proceed to checkout and complete the payment.
-6. Track your order status from your account dashboard.
